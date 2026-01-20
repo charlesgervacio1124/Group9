@@ -9,10 +9,11 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginLeft="130dp"
         android:layout_marginTop="200dp"
-        tools:srcCompat="@tools:sample/avatars" />
+        android:src="@drawable/lor"/>
 
     <TextView
         android:id="@+id/animal"
@@ -22,8 +23,8 @@
         android:layout_marginTop="30dp"
         android:gravity="center"
         android:lineSpacingExtra="6dp"
-        android:text="Raven Morante\nkupal"
-        android:textSize="24sp" />
+        android:text="Raven B. Morante\nkupal"
+        android:textSize="20dp" />
 
     <Button
         android:id="@+id/button"
