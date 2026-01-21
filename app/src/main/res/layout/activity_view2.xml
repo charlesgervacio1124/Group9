@@ -22,7 +22,6 @@
         android:layout_below="@id/imageView"
         android:layout_marginTop="30dp"
         android:gravity="center"
-        android:lineSpacingExtra="6dp"
         android:text="Name: Charles Dinver Boy D. Gervacio\nAge: 19\nBirthday: November 24, 2005\nCP Number: 09155808046\nAddress: Bued, Calasiao, Pangasinan"
         android:textSize="20dp" />
 

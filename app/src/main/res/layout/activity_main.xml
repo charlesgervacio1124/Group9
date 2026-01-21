@@ -21,7 +21,6 @@
         android:layout_below="@id/imageView"
         android:layout_marginTop="30dp"
         android:gravity="center"
-        android:lineSpacingExtra="6dp"
         android:text="Name: Raven Morante\lnGroup: 9\nSection: BSIT-06"
         android:textSize="20dp" />
 
